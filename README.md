@@ -1,4 +1,4 @@
-<h1 align="left">Hi coders! <br>-▄████▄─────<br>███▄█▀──────<br>████──█──█──<br>█████▄──────<br>─▀████▀─────</h1>
+<h1 align="left">Hi coders!<br>-▄████▄─────<br>███▄█▀──────<br>████──█──█──<br>█████▄──────<br>─▀████▀─────</h1>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">👨‍💻 Estudante de Tecnologia e Análise e Desenvolvimento de Sistemas<br>📚 Apaixonado por aprendizado contínuo em desenvolvimento de software<br>💡 Interessado em projetos inovadores e tecnológicos<br>🤝 Habilidades em colaboração e trabalho em equipe<br>🚀 Comprometido em resolver problemas de forma criativa<br>🌟 Buscando oportunidades para contribuir e crescer no mundo da tecnologia<br>🇧🇷 - 🇺🇸</p>
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
+</div>
+
+###
+
+<p align="left">👨‍💻 Estudante de Tecnologia e Análise e Desenvolvimento de Sistemas<br>📚 Apaixonado por aprendizado contínuo em desenvolvimento de software<br>💡 Interessado em projetos inovadores e tecnológicos<br>🤝 Habilidades em colaboração e trabalho em equipe<br>🚀 Comprometido em resolver problemas de forma criativa<br>🌟 Buscando oportunidades para contribuir e crescer no mundo da tecnologia<br>BR - EN</p>
 
 ###
 
@@ -25,15 +31,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -44,18 +52,33 @@
 
 ###
 
+<br clear="both">
+
+<h2 align="left">Meu Contato /Contact me!</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="www.linkedin.com/in/joão-victor-baraúna-999a07318" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="lynuzinkj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="jvictorbarauna@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/victvsc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
 
-<p align="center">🇧🇷 - 🇺🇸</p>
+<br clear="both">
+
+<h1 align="center">BR - EN</h1>
 
 ###
