@@ -1,8 +1,6 @@
-<h1 align="left">Hi coders!<br>-▄████▄─────<br>███▄█▀──────<br>████──█──█──<br>█████▄──────<br>─▀████▀─────</h1>
-
 ###
 
-<p align="left">Me chamo João Victor, tenho 18 anos e sou estudante na área de tecnologia.</p>
+<p align="left">Me chamo João Victor, tenho 19 anos e sou estudante na área de tecnologia.</p>
 
 ###
 
